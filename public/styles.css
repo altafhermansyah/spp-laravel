@@ -1,0 +1,15 @@
+body {
+    padding: 0;
+    margin: 0;
+    max-height: 100vh;
+    background-color: #e9e6de;
+}
+
+.image {
+    margin-top: 100px;
+}
+
+
+.title {
+    color: white;
+}
